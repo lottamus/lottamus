@@ -1,4 +1,4 @@
-![lott.eth](https://lott.io/lott.eth.png)
+[![lott.eth](https://lott.io/lott.eth.png)](https://lott.io)
 
 # Hi, I'm Chris 👋
 
