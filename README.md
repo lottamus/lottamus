@@ -1,9 +1,9 @@
 [![lott.eth](https://lott.io/lott.eth.png)](https://lott.io)
 
-# Hi, I'm Chris 👋
+# Hey, I'm Chris 👋
 
-I love building products. Have an exciting idea? [Send me an email](mailto:chris@lott.io) and let's build it!
+I love building products. Have an exciting idea? [Schedule a time](https://lott.io/chat) on my calendar and let's build it!
 
 - [Website](https://lott.io/)
 - [Github](http://github.com/lottamus)
-- [Twitter](https://twitter.com/chrisnlott)
+- [𝕏](https://x.com/chrisnlott)
